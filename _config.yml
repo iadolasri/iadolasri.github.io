@@ -1,8 +1,9 @@
 # Site settings
-title: AdamForster
+title: Grayscale
 email: your-email@domain.com
 url: https://example.github.io
-description: "AdamForster, die Loesung für Ihr Fest. Sie können auf jeden Ansturm reagieren und den Umsatz steigern. Ihre Gaeste koennen immer bestellen und sehen, dass an ihrer Bestellung gearbeitet wird."
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
