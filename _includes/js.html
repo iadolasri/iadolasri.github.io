@@ -1,4 +1,4 @@
- <!-- jQuery Version 1.11.0 -->
+﻿ <!-- jQuery Version 1.11.0 -->
     <script src="{{ "/js/jquery.js" | prepend: site.baseurl }}"></script>
 
     <!-- Bootstrap Core JavaScript -->
@@ -12,3 +12,17 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/grayscale.js" | prepend: site.baseurl }}"></script>
+
+  <script type="text/javascript">
+    function createLinks(){
+      $('A[data-u][href=""]').each(function(){
+        var i = $(this);
+        i.attr('href', 'mai'+'lto:'+i.data('u')+'@'+i.data('d'));
+        if (i.html()==''){ i.html(i.data('u')+'@'+i.data('d')); }
+      });
+    }
+    $(function(){
+      createLinks();
+    });
+  </script>
+
