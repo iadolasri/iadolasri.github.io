@@ -1,5 +1,5 @@
 ﻿# Site settings
-title: AdamForster
+title: Service AdamForster
 email: your-email@domain.com
 url: http://www.AdamForster.ch
 description: "AdamForster, die Lösung für Ihr Fest. Sie können auf jeden Ansturm reagieren und den Umsatz steigern. Ihre Gäste können immer bestellen und sehen, dass an ihrer Bestellung gearbeitet wird."
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Service AdamForster
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
