@@ -159,6 +159,8 @@ a:focus {
     font-size: 18px;
 }
 
+.intro-text {color: black }
+
 @media(min-width:767px) {
     .intro {
         height: 100%;
