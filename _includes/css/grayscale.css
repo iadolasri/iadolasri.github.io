@@ -162,7 +162,7 @@ a:focus {
 .intro-text {
  margin: 0 0 35px;
 	color: black;
-background:grey;
+background:rgba(54, 73, 99, 0.41);
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
