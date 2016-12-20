@@ -168,7 +168,7 @@ a:focus {
     	letter-spacing: 1px;
 }
 
-@media(min-width:40em) {
+@media(min-width:50em) {
     .intro {
         height: 100%;
         padding: 0;
@@ -176,6 +176,21 @@ a:focus {
 
     .intro .intro-body .brand-heading {
         font-size: 100px;
+    }
+
+    .intro .intro-body .intro-text {
+        font-size: 25px;
+    }
+}
+
+@media(min-width:40em) {
+    .intro {
+        height: 100%;
+        padding: 0;
+    }
+
+    .intro .intro-body .brand-heading {
+        font-size: 80px;
     }
 
     .intro .intro-body .intro-text {
