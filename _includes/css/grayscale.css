@@ -175,11 +175,11 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 5em;
+        font-size: 100px;
     }
 
     .intro .intro-body .intro-text {
-        font-size: 2em;
+        font-size: 25px;
     }
 }
 
@@ -190,11 +190,11 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 4em;
+        font-size: 8opx;
     }
 
     .intro .intro-body .intro-text {
-        font-size: 2em;
+        font-size: 20px;
     }
 }
 .btn-circle {
